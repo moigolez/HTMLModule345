@@ -661,11 +661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/moisesgolez/Desktop/HTMLModule345/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
+      "projectUniqueName": "/Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
       "projectName": "HTMLModule345",
-      "projectPath": "/Users/moisesgolez/Desktop/HTMLModule345/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
+      "projectPath": "/Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
       "packagesPath": "/Users/moisesgolez/.nuget/packages/",
-      "outputPath": "/Users/moisesgolez/Desktop/HTMLModule345/HTMLModule345/HTMLModule345/obj/",
+      "outputPath": "/Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/moisesgolez/.config/NuGet/NuGet.Config"

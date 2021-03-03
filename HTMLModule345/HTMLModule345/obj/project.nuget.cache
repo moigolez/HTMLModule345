@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KHFIBPxFOFdBoMMZcqrxTEaqpPjJa+NQHW7v1z8PJWl76DKrKGZuXK20T3/Jsf+QZhavxK5uyS7RkHdhJodeww==",
+  "dgSpecHash": "fIok2ojV7UrWRzmQZIaqa9UXmX/vyet29kardyhwpvqYGIpnx7tWCFJpgUW41I8LKE2CWUKrLms7dqBPG9BpAg==",
   "success": true,
-  "projectFilePath": "/Users/moisesgolez/Desktop/HTMLModule345/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
+  "projectFilePath": "/Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/HTMLModule345.csproj",
   "expectedPackageFiles": [
     "/Users/moisesgolez/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.12/microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "/Users/moisesgolez/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.12/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",
