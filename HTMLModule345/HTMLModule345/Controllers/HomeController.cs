@@ -45,7 +45,10 @@ namespace HTMLModule345.Controllers
 
         }
 
-
+        public IActionResult UserProfileInformation()
+        {
+            return View();
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -704,3 +704,4 @@
 /Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/obj/Debug/netcoreapp3.1/HTMLModule345.genruntimeconfig.cache
 /Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
 /Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
+/Users/moisesgolez/Desktop/HTML Modules/HTMLModule345/HTMLModule345/obj/Debug/netcoreapp3.1/Razor/Views/Home/UserProfileInformation.cshtml.g.cs
