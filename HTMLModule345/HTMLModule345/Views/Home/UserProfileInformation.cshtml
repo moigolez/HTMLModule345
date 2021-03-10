@@ -18,7 +18,7 @@
 
                 </td>
 
-                
+
                 <td>
 
                     <input id="FirstName" name="FirstName"
@@ -26,22 +26,12 @@
                            size="18" maxlength="18"
                            placeholder="Add your FirstName" autofocus />
 
-                </td>
-               
-
-                <td>
-
                     <label for="LastName">Last Name:</label>
-
-                </td>
-
-                <td>
 
                     <input id="LastName" name="LastName"
                            type="text" value="Add your LastName"
                            size="18" maxlength="18"
                            placeholder="Add your LastName" autofocus />
-
 
                 </td>
 
@@ -76,16 +66,29 @@
                     <label for="NoResponseGender">Prefer not to respond</label>
 
                 </td>
+            <tr>
+                <td colspan="1">
+                    <label for="FavoriteColor">Choose favorite color</label>
+                    <input type="color" id="FavoriteColor" />
+                </td>
 
             
+         
+                <td>
+                    <label for="Birthday">Birthday</label>
 
+                    <input type="date" id="Birthday" min="1970-05-01"
+                           max="2025-11-07" />
+
+                </td>
+            </tr>
             <tr>
                 <td>
                     <label for="Email">Email:</label>
                 </td>
                 <td colspan="3">
-                    <input type="email" id="Email" 
-                    size="50" maxlength="50"/>
+                    <input type="email" id="Email"
+                           size="50" maxlength="50" placeholder="Add your Email Address" autofocus/>
                 </td>
 
             </tr>
@@ -95,27 +98,37 @@
 
 
                     <label for="country">Country of Residence:</label>
-                    
+
                 </td>
-                <td>
-                    
-  
-                        <select id="countries" name="countries">
+                <td colspan="1">
 
 
-                          <option value="United States">USA</option>
+                    <select id="countries" name="countries" >
 
-                        </select>
-</td>
 
-   
+                        <option value="United States" >USA</option>
+
+                    </select>
+                </td>
+
+
 
             </tr>
-            
+            <tr>
+
+                <td colspan="1">
+                    <label for="ProfileImage">Select profile image:</label>
+                </td>
+                <td>
+                    <input type="file" id="ProfileImage" multiple />
+
+                </td>
+
+            </tr>
             <tr>
 
                 <td colspan="3">
-                    
+
                     <button>Update User Information</button>
 
                 </td>
