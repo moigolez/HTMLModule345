@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{BE48452A-FDF8-441D-8025-3F8725C74E6F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HTMLModule345/wwwroot/css/UserProfile.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HTMLModule345/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="HTMLModule345/Views/Home/Index.cshtml" Line="49" Column="7" />
-      <File FileName="HTMLModule345/wwwroot/css/Index.css" Line="1" Column="1" />
-      <File FileName="HTMLModule345/Views/Shared/_Layout.cshtml" Line="31" Column="51" />
-      <File FileName="HTMLModule345/Views/Home/UserProfileInformation.cshtml" Line="106" Column="29" />
-      <File FileName="HTMLModule345/wwwroot/css/site.css" Line="1" Column="1" />
-      <File FileName="HTMLModule345/wwwroot/css/UserProfile.css" Line="1" Column="1" />
+      <File FileName="HTMLModule345/Views/Home/Index.cshtml" Line="32" Column="13" />
+      <File FileName="HTMLModule345/wwwroot/css/Index.css" />
+      <File FileName="HTMLModule345/Views/Shared/_Layout.cshtml" Line="27" Column="37" />
+      <File FileName="HTMLModule345/Views/Home/UserProfileInformation.cshtml" />
+      <File FileName="HTMLModule345/wwwroot/css/site.css" />
+      <File FileName="HTMLModule345/wwwroot/css/UserProfile.css" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,12 +17,12 @@
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="UserProfile.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
                 <Node name="images" expanded="True" />
                 <Node name="video" expanded="True" />
               </Node>
