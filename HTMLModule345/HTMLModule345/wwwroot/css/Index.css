@@ -8,9 +8,9 @@
 
 table {
     text-align: center;
-    border-style: solid;
+    border-style: none;
     border-width: 1px;
-    border-color: black;
+    border-color: none;
     margin-left: auto;
     margin-right: auto;
     
@@ -37,4 +37,7 @@ a:active {
     background-color: blue;
     color: yellowgreen;
 }
-
+div.gallery img {
+    border-radius: 75%;
+    
+}
