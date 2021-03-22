@@ -36,8 +36,4 @@ a:active {
 #TestDiv p::selection {
     background-color: blue;
     color: yellowgreen;
-}
-div.gallery img {
-    border-radius: 75%;
-    
-}
+
